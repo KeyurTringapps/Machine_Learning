@@ -24,4 +24,4 @@ You need to install few important libraries in your system. List of commands are
 
 # Step To Run -
 
-Either you can run this with the help of IDE like PyCharm or you can use other supporting software which
+Either you can run this with the help of IDE like PyCharm or you can use other supporting software which support python language,
